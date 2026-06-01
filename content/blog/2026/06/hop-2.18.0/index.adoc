@@ -1,0 +1,16 @@
+---
+title: "Apache Hop 2.18 is available!!"
+date: 2026-06-07T06:44:56+02:00
+authors: ["hansva"]
+categories: ["2.18", "Release", "Apache Hop"]
+preview: "Apache Hop 2.18 Released"
+description: "The latest Apache Hop release 2.18.0 is now available. Let's walk through the most important new features in this release."
+---
+
+:imagesdir: ../../../../../static
+
+:toc: macro
+:toclevels: 3
+:toc-title: Let's take a closer look at what Hop 2.18 brings:
+:toc-class: none
+
